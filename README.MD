@@ -1,9 +1,10 @@
 ### Hi, my name is João Felipe 🤠🖖🏼
+Estudante de Analise e desenvolvimento de sistemas - FIAP
 
-- 🌍  I'm based in Minas Gerais, Brazil
-- 🖥️  See my portfolio at - ⏳ soon
-- 🧠  Currently learning React
-- 🤝  I'm open to collaborating on interesting projects as a developer
+- 🌍  Moro em Minas Gerais, Brasil
+- 🖥️  Portifólio - ⏳ em breve
+- 🧠  Atualmente aprendendo React
+- 🤝  Estou aberto a colaborar em projetos como desenvolvedor
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-felipe-franklin-pereira/)
