@@ -1,4 +1,4 @@
-### Hi, my name is João Felipe 🤠🖖🏼
+### Ooi, meu nome é João Felipe 🤠🖖🏼
 Estudante de Analise e desenvolvimento de sistemas - FIAP
 
 - 🌍  Moro em Minas Gerais, Brasil
