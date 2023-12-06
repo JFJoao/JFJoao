@@ -2,8 +2,7 @@
 Estudante de Analise e desenvolvimento de sistemas - FIAP
 
 - 🌍  Moro em Minas Gerais, Brasil
-- 🖥️  Portifólio - ⏳ em breve
-- 🧠  Atualmente aprendendo React
+- 🧠  Atualmente aprendendo Java
 - 🤝  Estou aberto a colaborar em projetos como desenvolvedor
 
 
