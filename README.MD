@@ -2,7 +2,7 @@
 Estudante de Analise e desenvolvimento de sistemas - FIAP
 
 - 🌍  Moro em Minas Gerais, Brasil
-- 🧠  Atualmente aprendendo Java
+- 🧠  Atualmente aprendendo Java/kotlin
 - 🤝  Estou aberto a colaborar em projetos como desenvolvedor
 
 
