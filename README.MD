@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=Seja+bem+vindo!++%3D%5D)](https://git.io/typing-svg)
-### Ooi, meu nome é João Felipe 🤠🖖🏼
-Estudante de Analise e desenvolvimento de sistemas - FIAP
+### Hello, my name is João Felipe 🤠🖖🏼
+Systems Analysis and Development Student - FIAP
 
-- 🌍  Moro em Minas Gerais, Brasil
-- 🧠  Atualmente aprendendo Java/kotlin
-- 🤝  Estou aberto a colaborar em projetos como desenvolvedor
-- 📫  Entre em contato **jfjoaojf@hotmail.com**
+- 🌍  Currently living Minas Gerais, Brasil
+- 🧠  Focusing on Java/kotlin
+- 🤝  I am open to collaborating on projects as a developer
+- 📫  Get in touch **jfjoaojf@hotmail.com**
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-felipe-franklin-pereira/)
