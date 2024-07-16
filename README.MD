@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=Welcome+!++%3D%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=Welcome!++%3D%5D)](https://git.io/typing-svg)
 ### Hello, my name is João Felipe 🤠🖖🏼
 Systems Analysis and Development Student - FIAP
 
