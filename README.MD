@@ -35,8 +35,7 @@ Systems Analysis and Development Student - FIAP
 <br>
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
-[![Linguagens](https://github-readme-stats.vercel.app/api?username=JFJoao&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/JFJoao?tab=repositories)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JFJoao&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/JFJoao?tab=repositories)
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFJoao&most_progress=true) -->
 
