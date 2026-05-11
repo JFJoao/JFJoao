@@ -1,15 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=Welcome!++%3D%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=Saudações!++%3D%5D)](https://git.io/typing-svg)
 
-### Hello, my name is João Felipe 🤠🖖🏼
-Systems Analysis and Development - FIAP
+Olá, meu nome é João Felipe.
 
-- 🌍  Currently living Minas Gerais, Brasil
-- 🧠  Focusing on Java/kotlin
-- 🤝  I am open to collaborating on projects as a developer
-- 📫  Get in touch **jfjoaojf@hotmail.com**
+Desenvolvedor Full Stack <Fiap> com foco em backend escalável, arquitetura de sistemas e aplicações financeiras. Atualmente desenvolvendo um ERP multi-tenant utilizando Go, Angular, PostgreSQL e Docker.
+
+Também atuo no desenvolvimento de uma plataforma de análise financeira baseada em Inteligência Artificial, voltada para análise de mercado, leitura de risco, apoio à decisão e automação supervisionada de estratégias operacionais.
+
+Experiência prática com APIs REST, integrações bancárias, bancos de dados, containers, automação de processos e desenvolvimento web moderno. Aberto para participar de projetos como Desenvolvedor Full Stack, contribuindo no backend, frontend, arquitetura e evolução técnica de produtos.
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-felipe-franklin-pereira/)
-[![UaigenciaWeb](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.uaigenciaweb.com.br)
+
 
 ## Skills
 
